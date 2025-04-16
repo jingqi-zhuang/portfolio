@@ -601,7 +601,7 @@ pre code {
   margin-right: auto;
   margin-left: auto;
   height: auto;           /* Default: fits content */
-  max-height: 90vh;       /* Optional: limits height to 90% of viewport */
+  max-height: 120vh;       /* Optional: limits height to 90% of viewport */
 }
 
 @media (min-width: 576px) {
